@@ -1,6 +1,10 @@
 ### Compose Multiplafrom StarWars like text
 
-![img.png](img.png)
+![screenshot-desktop.png](screenshot-desktop.png)
+
+
+![screenshot-ios.png](screenshot-ios.pngg)
+
 
 
 ```Kotlin

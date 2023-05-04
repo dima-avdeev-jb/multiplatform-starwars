@@ -59,7 +59,7 @@ fun App() {
             Text(
                 text,
                 Modifier.fillMaxWidth(0.5f),
-                fontSize = 30.sp,
+                fontSize = fontSize.sp,
                 color = Color.Yellow,
                 textAlign = TextAlign.Center
             )
@@ -69,3 +69,5 @@ fun App() {
 }
 
 expect fun getPlatformName(): String
+
+expect val fontSize:Int
