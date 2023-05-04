@@ -70,4 +70,4 @@ fun App() {
 
 expect fun getPlatformName(): String
 
-expect val fontSize:Int
+expect val fontSize: Int
