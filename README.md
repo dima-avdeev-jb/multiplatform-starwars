@@ -3,10 +3,6 @@
 ![screenshot-desktop.png](screenshot-desktop.png)
 
 
-![screenshot-ios.png](screenshot-ios.png)
-
-
-
 ```Kotlin
 Box(
     Modifier.fillMaxSize()
@@ -39,4 +35,11 @@ Box(
     }
 }
 ```
+
+
+
+![screenshot-ios.png](screenshot-ios.png)
+
+
+![screenshot-android.png](screenshot-android.png)
 
