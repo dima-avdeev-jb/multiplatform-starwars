@@ -3,7 +3,7 @@
 ![screenshot-desktop.png](screenshot-desktop.png)
 
 
-![screenshot-ios.png](screenshot-ios.pngg)
+![screenshot-ios.png](screenshot-ios.png)
 
 
 
