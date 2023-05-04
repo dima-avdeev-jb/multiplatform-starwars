@@ -31,7 +31,7 @@ Box(
             color = Color.Yellow,
             textAlign = TextAlign.Center
         )
-        Box(Modifier.height(5_000.dp))
+        Box(Modifier.height(400.dp))
     }
 }
 ```
