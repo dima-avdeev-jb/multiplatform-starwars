@@ -1,5 +1,7 @@
 ### Compose Multiplafrom StarWars like text
 
+`./gradlew run`
+
 ![screenshot-desktop.png](screenshot-desktop.png)
 
 
